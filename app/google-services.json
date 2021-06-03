@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940051838908",
+    "project_id": "signn-17896",
+    "storage_bucket": "signn-17896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940051838908:android:a1afca175f2ecafc5e5db9",
+        "android_client_info": {
+          "package_name": "com.example.googlesignn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940051838908-d1evr56g245gotv07ua93guqrvvj3c49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmqEZpEbtR40Y4H3WAXWKyyjEKg7_QZ4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940051838908-d1evr56g245gotv07ua93guqrvvj3c49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
